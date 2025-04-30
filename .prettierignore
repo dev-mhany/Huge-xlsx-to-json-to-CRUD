@@ -1,0 +1,6 @@
+/coverage
+__generated__
+node_modules
+.next
+out
+public
